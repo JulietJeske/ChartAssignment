@@ -1,0 +1,47 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: white;
+
+}
+
+#header {
+	text-align: center;
+	width: 960px;
+	font-family: Georgia, Arial, Times New Roman;
+}
+
+.caption {
+	text-align: center;
+	color: black;
+	font-family: Arial, Times New Roman;
+}
+
+.center {
+	border-color: black;
+	border: 2px solid;
+	width: 300px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.text {
+	text-align: left;
+	color: black;
+	font-family: Arial, Times New Roman;
+}
+
+.byline {
+	text-align: left;
+	color: black;
+	font-family: Arial, Times New Roman;
+}
+
+
+a {
+  color: purple;
+}
+
+a:visted {
+	color: lightblue;
+}
